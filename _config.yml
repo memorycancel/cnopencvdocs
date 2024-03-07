@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OpenCV中文文档
+description: 中文版OpenCV文档 OpenCV Documentation for Chinese https://memorycancel.github.io/cnopencvdocs/
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://memorycancel.github.io/cnopencvdocs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  文档源码: https://github.com/memorycancel/cnopencvdocs

@@ -6,3 +6,12 @@ url: https://memorycancel.github.io/cnopencvdocs/
 
 aux_links:
   文档源码: https://github.com/memorycancel/cnopencvdocs
+
+compress_html:
+  ignore:
+    envs: all
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
